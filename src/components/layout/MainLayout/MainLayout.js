@@ -18,6 +18,7 @@ const MainLayout = ({children}) => (
        <Toolbar />
        {children}
      </Container>
+
     </div>
   );
 
